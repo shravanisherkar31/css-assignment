@@ -1,0 +1,133 @@
+.heading{
+    color: rgb(242, 27, 120);
+    font-family: Arial, Helvetica,monospace;
+    font-size: 40px;
+    text-align: center;
+    
+}
+
+.btn1{
+    background-color: rgb(103, 181, 233);
+    color: white;
+    padding: 10px 20px;
+    border: 2px solid rgb(161, 205, 234);
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    transition: 0.3s ease;
+}
+
+.btn1:hover {
+    background-color: lightblue;
+    color: rgb(45, 156, 230);
+    border: 2px solid rgb(53, 156, 225);
+    box-shadow: 0 4px 8px rgba(53, 156, 225, 0.5);
+    transition: 0.3s ease;
+}
+.btn2{
+    background-color: rgb(103, 233, 161);
+    color: white;
+    padding: 10px 20px;
+    border: 2px solid rgb(161, 234, 205);
+    border-radius:20px; 
+    cursor: pointer;
+    font-size: 16px;
+    font-family: sans-serif;
+    transition: 0.3s ease;
+}
+.btn2:hover {
+    background-color: lightgreen;
+    color: rgb(45, 156, 230);
+    border: 2px double rgb(215, 227, 235);
+    box-shadow: 1px 2px 4px rgba(234, 238, 240, 0.5);
+    transition: 0.3s ease;
+}
+.btn3{
+    background-color: lightcoral;
+    color:white;
+    padding: 10px 20px;
+    border: 1px;
+    border-radius: 50%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
+    transition: 0.10s ease;
+}
+.btn3:hover {
+    background-color: lightcoral;
+    color: white;
+    border: 2px solid rgb(213, 174, 186);
+    box-shadow: 0 2px 4px rgba(237, 47, 104, 0.5);
+}
+.btn4{
+    background-color: rgb(131, 10, 10);
+    color: white;
+    padding: 10px 20px;
+    border: 2px solid rgb(157, 12, 12);
+    border-radius: 0px 20px 0px 20px; 
+    cursor: pointer;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    transition: 0.3s ease;
+}
+.btn4:hover {
+    background-color: rgb(225, 19, 19);
+    color: white;
+    border: 2px solid rgb(234, 161, 161);
+    box-shadow: 0 4px 8px rgba(234, 161, 161, 0.5);
+    transition: 0.3s ease;
+}
+.btn5{
+    background-color: rgb(140, 132, 203);
+    color: white;
+    padding: 10px 20px;
+    border: 2px solid rgb(187, 177, 245);
+    border-radius: 100px 200px ; 
+    cursor: pointer;
+    font-size: 16px;
+    font-family: sans-serif;
+    transition: 0.3s ease;
+}
+.btn5:hover {
+    background-color: rgb(115, 121, 146);
+    color: rgb(151, 172, 186);
+    border: 2px double rgb(215, 227, 235);
+    box-shadow: 1px 2px 4px rgba(234, 238, 240, 0.5);
+    transition: 0.3s ease;
+}
+.btn6{
+    background-color: rgb(103, 181, 233);
+    color: white;
+    padding: 10px 20px;
+    border: 2px solid rgb(161, 205, 234);
+    border-radius: 2000px 50px 2000px 50px;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    transition: 0.3s ease;
+}
+.btn6:hover {
+    background-color: lightblue;
+    color: rgb(45, 156, 230);
+    border: 2px solid rgb(53, 156, 225);
+    box-shadow: 0 4px 8px rgba(53, 156, 225, 0.5);
+    transition: 0.3s ease;
+}
+.btn7{
+    background-color: lightcoral;
+    color:white;
+    padding: 10px 20px;
+    border: 1px;
+    border-radius:  1000px 2000px 7000px 5000px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
+    transition: 0.10s ease;
+}
+
+.btn7:hover {
+    background-color: lightcoral;
+    color: white;
+    border: 2px solid rgb(213, 174, 186);
+    box-shadow: 0 2px 4px rgba(237, 47, 104, 0.5);
+}
+
